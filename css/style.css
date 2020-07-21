@@ -1,0 +1,75 @@
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+    text-align: center;
+    display: inline-block;
+    margin-left: 80px;
+    padding: 15px 5px 15px 5px;
+}
+.card:hover {   
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.contain {
+  padding: 2px 16px;
+    float:inherit;   
+}
+.center{
+        text-align: center;
+         background-repeat: no-repeat;
+         background-attachment: scroll;
+         background-position: center;
+         background-size: cover;
+     }
+ .footer{
+         background-color: #373A39;
+         padding-bottom: 20px;
+         padding-top: 10px;
+     }
+     
+     .first h3 {
+         color: white;
+         padding-bottom: 20px;
+     }
+     .first a {
+         color: white;
+     }
+     .first a:hover{
+         color: #F2F2FF;
+         text-decoration: none;
+     }
+      .second h3 {
+         color: white;
+          padding-bottom: 20px;
+     }
+     .second p{
+         font-size: 17px; 
+         color: #BCBCBC;
+     }
+      .third h3 {
+         color: white;
+          padding-bottom: 20px;
+     }
+      .third .info {
+         color: #BCBCBC;
+          font-size: 16px;
+          line-height: 1.6;
+     }
+     .third_link{
+         color: white;
+     }
+     .third_link:hover{
+         text-decoration: none;
+         color: white;
+     }
+      .fourth h3 {
+         color: white;
+          padding-bottom: 20px;
+     }
+     .input{
+         border-radius: 0px;
+     }
+     .form-group label{
+         color: white;
+     }
+    
